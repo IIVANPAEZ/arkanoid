@@ -1,0 +1,10 @@
+body {
+    background-color: #111;
+}
+canvas{
+    background: url(./bkg.png) repeat;
+    border: 4px solid #fff;
+    border-bottom: transparent;
+    margin: 0 auto;
+    display: block;
+}
